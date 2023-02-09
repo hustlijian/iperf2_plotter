@@ -1,0 +1,6 @@
+*.tmp
+*.dat
+*.csv
+*.pdf
+*.pcap
+*.trace
